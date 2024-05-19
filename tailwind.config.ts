@@ -27,6 +27,7 @@ const config: Config = {
       },
     },
   },
+  // 重制表单样式
   plugins: [require('@tailwindcss/forms')],
 };
 export default config;
